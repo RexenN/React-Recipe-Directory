@@ -36,6 +36,28 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Veg Pie",
+      "ingredients": [
+        "mushrooms",
+        "tofu",
+        "tomato"
+      ],
+      "cookingTime": "45minutes",
+      "method": "aksjdj",
+      "id": "UZLJDA_"
+    },
+    {
+      "title": "Veggie",
+      "ingredients": [
+        "a",
+        "d",
+        "s"
+      ],
+      "cookingTime": "40minutes",
+      "method": "asdaczxcasd",
+      "id": "6J0BgrC"
     }
   ]
 }
